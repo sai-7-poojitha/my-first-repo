@@ -1,0 +1,3 @@
+Name: Vanapalli Saipoojitha
+Course: BSc DataScience
+I've learned about creating repositories in GitHub
